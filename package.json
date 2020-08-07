@@ -1,0 +1,22 @@
+{
+  "name": "@padora/npm-test",
+  "version": "1.0.0",
+  "description": "An test package to publish to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padraicohora/npm-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "padora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padraicohora/npm-test/issues"
+  },
+  "homepage": "https://github.com/padraicohora/npm-test#readme"
+}
